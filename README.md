@@ -60,7 +60,6 @@ I'm **Ravin Bhambhu**, a Java & Blockchain Engineer with **5 years of experience
   <img src="https://img.shields.io/badge/Hyperledger_Fabric-2F6F9F?style=for-the-badge" alt="Hyperledger Fabric"/>
   <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
   <img src="https://img.shields.io/badge/R3_Corda-EC1D24?style=for-the-badge" alt="R3 Corda"/>
-  <img src="https://img.shields.io/badge/DAML-654FF0?style=for-the-badge" alt="DAML"/>
 </p>
 
 | 🎯 Focus Area | 🛠️ What I Work On |
